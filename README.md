@@ -6,7 +6,7 @@
 
 ### My stats
 
-![Yann's GitHub stats](https://github-readme-stats.vercel.app/api?username=YannCharbon&show_icons=true&theme=radical)
+![Yann's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=YannCharbon&show_icons=true&theme=radical)
 
 ### My programming languages and software
 
