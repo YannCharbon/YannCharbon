@@ -1,7 +1,7 @@
 ### Hi folks 👋
 
  - I'm an embedded systems and full-stack research engineer.
- - I work on a lot of different aspects of Smart Utility Networks (SUN) based on Wi-SUN. This covers subject such as implementing new ARM Mbed applications for Wi-SUN, implementing IEEE 802.15.4 RF drivers for ARM Mbed, studying and optimizing RPL routing, studying how to improve mesh throughput using new technologies such as MR-OFDM (with multiple access), developping C# Blazor frontend web apps for the mesh network.
+ - I work on a lot of different aspects of Smart Utility Networks (SUN) based on Wi-SUN. This covers subjects such as implementing new ARM Mbed applications for Wi-SUN, implementing IEEE 802.15.4 RF drivers for ARM Mbed, studying and optimizing RPL routing, studying how to improve mesh throughput using new technologies such as MR-OFDM (with multiple access), developping C# Blazor frontend web apps for the mesh network.
  - I also develop some low power hardware such as embedded Linux modules and RF modules.
 
 ### My stats
